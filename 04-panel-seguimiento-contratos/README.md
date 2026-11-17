@@ -1,6 +1,6 @@
 # Panel de seguimiento de contratos
 
-**Proyecto profesional** · Python aplicado a la gestión comercial
+**Proyecto propio** · Python aplicado a la gestión comercial
 
 > El demo usa una base de contratos ficticia, creada para mostrar el funcionamiento del panel.
 
