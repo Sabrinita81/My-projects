@@ -18,4 +18,4 @@ Un proceso en Python que toma la base de contratos y genera un **panel interacti
 ## Herramientas
 Python · pandas · Matplotlib · HTML/CSS
 
-🔗 [Ver el panel en vivo (GitHub Pages)](https://sabrinita81.github.io/My-projects-Data/04-panel-seguimiento-contratos/panel_seguimiento_contratos_demo.html)
+🔗 [Ver el panel en vivo (GitHub Pages)](https://sabrinita81.github.io/My-projects/04-panel-seguimiento-contratos/panel_seguimiento_contratos_demo.html)
